@@ -1,4 +1,14 @@
-# Svelte + Vite
+# Svelte + Vite (+ @sveltejs/enhanced-img)
+
+> quick exploration of the new official Svelte(Kit) image tooling announced by [Ben McCann](https://twitter.com/BenjaminMcCann) at the [Svelte Summit 2023 Fall](https://www.sveltesummit.com/2023/fall)
+
+> goal of this repo was to confirm that it also works with Vite + Svelte / without SvelteKit - which it does!
+
+Live Preview: <https://svelte-enhanced-img.vercel.app/>
+
+Official Documentation: <https://kit.svelte.dev/docs/images#sveltejs-enhanced-img>
+
+---
 
 This template should help get you started developing with Svelte in Vite.
 

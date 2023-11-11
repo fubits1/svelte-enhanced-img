@@ -11,6 +11,9 @@
 <main>
   <h2>Demo: <code>@sveltejs/enhanced-img</code> with Svelte / without SvelteKit</h2>
   <blockquote>
+    Repo: <a href="https://github.com/fubits1/svelte-enhanced-img">fubits1/svelte-enhanced-img</a>
+  </blockquote>
+  <blockquote>
     Docs: <a href="https://kit.svelte.dev/docs/images#sveltejs-enhanced-img"
       >https://kit.svelte.dev/docs/images#sveltejs-enhanced-img</a>
   </blockquote>
